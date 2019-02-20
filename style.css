@@ -3,7 +3,6 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 }
-
 .wrap {
 	
 	margin: 0 auto;
@@ -11,7 +10,6 @@ body {
 	padding: 50px;
 	background-color: #eeeeee;
 }
-
 
 table{
 	border: 2px solid #000;
